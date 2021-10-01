@@ -66,10 +66,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 make this:-<br>
     <ul>
-     <li>- Run 'composer install'</li>
-     <li>- Create a file named .env and take the words in the .env.example file and copy and put it in the .env file</li>
-     <li>- Make database named calendar</li>
-     <li>- Run 'php artisan migrate'</li>
-     <li>- Run 'php artisan serve'</li>
-     <li>- Go to 'http://127.0.0.1:8000/full-calender'</li>
+     <li>Run 'composer install'</li>
+     <li>Create a file named .env and take the words in the .env.example file and copy and put it in the .env file</li>
+     <li>Make database named calendar</li>
+     <li>Run 'php artisan migrate'</li>
+     <li>Run 'php artisan serve'</li>
+     <li>Go to 'http://127.0.0.1:8000/full-calender'</li>
     </ul>
