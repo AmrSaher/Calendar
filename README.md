@@ -64,7 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Calendar
 
-make this:-<br>
+<h4>make this:</h4>
     <ul>
      <li>Run 'composer install'</li>
      <li>Create a file named .env and take the words in the .env.example file and copy and put it in the .env file</li>
