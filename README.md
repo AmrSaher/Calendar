@@ -64,10 +64,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Calendar
 
-<h2>make this:-</h2><br>
-    - Run 'composer install'<br>
-    - Create a file named .env and take the words in the .env.example file and copy and put it in the .env file<br>
-    - Make database named calendar<br>
-    - Run 'php artisan migrate'<br>
-    - Run 'php artisan serve'<br>
-    - Go to 'http://127.0.0.1:8000/full-calender'
+make this:-<br>
+    <ul>
+     <li>- Run 'composer install'</li>
+     <li>- Create a file named .env and take the words in the .env.example file and copy and put it in the .env file</li>
+     <li>- Make database named calendar</li>
+     <li>- Run 'php artisan migrate'</li>
+     <li>- Run 'php artisan serve'</li>
+     <li>- Go to 'http://127.0.0.1:8000/full-calender'</li>
+    </ul>
